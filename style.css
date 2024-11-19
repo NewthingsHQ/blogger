@@ -1,0 +1,31 @@
+/* Example CSS for styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: var(--main-color);
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+#site-name {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+#site-tagline {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+button {
+  background-color: var(--accent-color);
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
